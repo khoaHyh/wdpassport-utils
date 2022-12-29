@@ -84,3 +84,8 @@ Lists all possible arguments.
 <h1>Disclaimer</h1>
 
 Use the tool and any of the information contained in this repository at your own risk. The tool was developed without any official documenation from Western Digital on how to manage the drive using its raw SCSI interface. We accept no responsibility.
+
+<h1>Personal Disclaimer</h1>
+
+* Running `sudo wdpassport-utils.py -d /dev/pathHere -u` after finding the path works.
+* use this fork to fix `py_sg` issue
